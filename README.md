@@ -3,10 +3,20 @@
 <h3 align="center">A coding enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
-- 🔭 I’m currently working on **DSA** and **WEB DEV **
+🔭 I’m currently working on **Data Structures and Algorithms (DSA)** and **Web Development**.
 
+## 🌱 I’m learning:
+- **C++**
+- JavaScript
+- React
+- Data Structures
+- Algorithms
 
-- 🌱 I’m currently learning **C++**
+## 🤔 I’m curious about:
+- Product Management
+- Technical Analysis
+- Product Analysis
+
 
 - 📫 How to reach me **archishasharma3@gmail.com**
 

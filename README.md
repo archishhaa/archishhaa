@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-<h1 align="center">hey, i'm archisha 👋</h1>
+<h1 align="center">hey, i'm archisha </h1>
 
 <h3 align="center">ai product engineer · curious mind · always building</h3>
 
@@ -28,6 +28,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archisha-sharma-89b5b628b)
 [![Email](https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:archishasharma3@gmail.com)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=archishhaa&show_icons=true&hide_border=true&theme=transparent" height="150" alt="GitHub stats"/>
-</p>
+
